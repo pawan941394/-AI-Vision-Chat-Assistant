@@ -1,6 +1,6 @@
 from ollama import Client
 client = Client(
-  host='https://eh42j4hjocbed9-11434.proxy.runpod.net',
+  host='Add your Ollama base url here ', 
   headers={'x-some-header': 'some-value'}
 )
 def ask_about_image(input_file, user_question):
