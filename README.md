@@ -95,11 +95,6 @@ streamlit>=1.24.0
 ollama-python>=0.1.0
 ```
 
-##  👤 Author : Pawan Kumar
-
-<a href="https://www.linkedin.com/in/pawan941394/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a href="https://github.com/pawan941394/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>  <a href="https://www.instagram.com/p_awan__kumar/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.youtube.com/@Pawankumar-py4tk"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-
-
 ## 🌟 What Makes This Project Special
 
 - **Universal Image Analysis**: Upload any image and start a conversation about it
@@ -123,6 +118,11 @@ ollama-python>=0.1.0
 - Efficient image processing pipeline
 - Modular architecture for easy extensions
 - Cross-platform compatibility
+
+
+##  👤 Author : Pawan Kumar
+
+<a href="https://www.linkedin.com/in/pawan941394/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a href="https://github.com/pawan941394/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>  <a href="https://www.instagram.com/p_awan__kumar/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.youtube.com/@Pawankumar-py4tk"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
 
 ## 📄 License
