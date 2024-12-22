@@ -37,6 +37,20 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+## ⚙️ Configuration
+
+### Host URL Setup
+Before running the application, you need to configure your Ollama host URL in `vision.py`:
+
+1. Open `vision.py`
+2. Locate the Client initialization:
+```python
+client = Client(
+    host='Add your url here',  
+    headers={'x-some-header': 'some-value'}
+)
+```
+
 ## 🚀 Usage
 
 1. Install dependencies
