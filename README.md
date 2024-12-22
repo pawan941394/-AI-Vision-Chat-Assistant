@@ -89,4 +89,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contributions, issues, and feature requests are welcome! Feel free to check issues page.
 
 ## ⭐️ Show your support
-Give a ⭐️ if this project helped you! ```
+Give a ⭐️ if this project helped you! 
