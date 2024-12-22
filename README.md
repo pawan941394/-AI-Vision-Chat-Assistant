@@ -45,7 +45,8 @@ streamlit run interface.py
 ```
 2. Open your browser and navigate to:
 ```bash
-[streamlit run interface.py](http://localhost:8501)
+[streamlit run interface.py]
+(http://localhost:8501)
 ```
 3. Upload an image and start asking questions!
 
@@ -79,10 +80,7 @@ ollama-python>=0.1.0
 ```
 
 ##  👤 Author : Pawan Kumar
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white">
-<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white">
-<img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white">  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white">  <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white">
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
