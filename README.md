@@ -4,6 +4,8 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.24.0%2B-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+![image](https://github.com/user-attachments/assets/24aace07-8c19-4907-b7b0-5ddc605c74e3)
+
 ## 📌 Overview
 AI Vision Chat Assistant is an interactive web application that allows users to upload images and ask questions about them. The application uses the Ollama Vision model to analyze images and provide intelligent responses to user queries.
 
