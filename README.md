@@ -20,7 +20,7 @@ AI Vision Chat Assistant is an interactive web application that allows users to 
 - Python 3.9+
 - Streamlit
 - Ollama API
-- LLaVA Vision Model
+- LLama 3.2 11b Vision Model
 
 ## ⚙️ Installation
 
